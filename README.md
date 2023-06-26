@@ -20,5 +20,30 @@
 - Tree Shaking ( algorithm , remove unused code)
 - Different build for development and production ( dev build & prod build)
 
+# Namaste Food
+ 
+/* 
+ * Header
+   - Logo
+   - Nav items
+   - Cart
 
+ * Body
+   - Search component
+   - RestaurantContainer 
+        - RestaurantCard
+            - Image
+            - Name of Res, star rating, cuisine, delivery time
 
+ * Footer
+    - Copyright
+    - Links
+    - Address
+    - Contact
+
+*/
+
+# React Hooks
+(Normal JS utility functions)
+- useState() - generates superpowerfull react variables
+- useEffect()

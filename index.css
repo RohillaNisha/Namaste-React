@@ -38,11 +38,16 @@ display:flex;
     border: 1px solid brown;
     cursor: pointer;
 }
-.search{
-    padding: 5px;
+.filter{
+    padding: 15px;
 }
 
 .hotel{
 width: 100%;
 border-radius: 5px;
 }
+
+.filter-btn{
+    cursor: pointer;
+}
+
